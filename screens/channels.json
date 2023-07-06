@@ -1,5 +1,13 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "manifestPath": "/content/screens/states/western-australia/riverton-branch.manifest.json",
+      "lastModified": "2023-07-06T10:36:44.953Z",
+      "externalId": "/content/screens/states/western-australia/riverton-branch",
+      "title": "Riverton Branch",
+      "liveUrl": "https://main--cba-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/riverton-branch.html"
+    }
+  ],
   "metadata": {
     "providerType": "franklin"
   }
