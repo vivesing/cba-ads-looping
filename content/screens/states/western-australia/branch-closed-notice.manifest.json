@@ -1,0 +1,23 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1688645344473,
+  "entries": [
+    {
+      "path": "/content/screens/states/western-australia/branch-closed-notice.html",
+      "timestamp": 1688645344332
+    },
+    {
+      "path": "/content/screens/assets/notice.png",
+      "timestamp": 1688644797000
+    }
+  ]
+}

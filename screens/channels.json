@@ -251,6 +251,27 @@
       "externalId": "/content/screens/states/new-south-wales/town-hall-branch",
       "title": "Town Hall Branch",
       "liveUrl": "https://main--cba-ads-looping--vivesing.hlx.live/content/screens/states/new-south-wales/town-hall-branch.html"
+    },
+    {
+      "manifestPath": "/content/screens/states/western-australia/branch-closed-notice.manifest.json",
+      "lastModified": "2023-07-06T12:09:04.332Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "states",
+          "path": "/content/screens/states"
+        },
+        {
+          "title": "western-australia",
+          "path": "/content/screens/states/western-australia"
+        }
+      ],
+      "externalId": "/content/screens/states/western-australia/branch-closed-notice",
+      "title": "Branch Closed Notice",
+      "liveUrl": "https://main--cba-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/branch-closed-notice.html"
     }
   ],
   "metadata": {
