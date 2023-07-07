@@ -127,7 +127,7 @@ export default async function decorate(block) {
                   container.removeChild(img);
                   incrementAdIndex();
                   playAds();
-                }, 8000);
+                }, 3500);
               }, 10);
             };
             break;
