@@ -9,11 +9,15 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1688940556666,
+  "timestamp": 1688946378693,
   "entries": [
     {
       "path": "/content/screens/states/western-australia/riverton-branch.html",
-      "timestamp": 1688940556561
+      "timestamp": 1688946378129
+    },
+    {
+      "path": "/content/screens/assets/coca-cola.jpeg",
+      "timestamp": 1688636515000
     },
     {
       "path": "/content/screens/assets/automobile.png",
