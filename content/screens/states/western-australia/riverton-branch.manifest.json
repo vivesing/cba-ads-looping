@@ -9,31 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1688931830302,
+  "timestamp": 1688940556666,
   "entries": [
     {
       "path": "/content/screens/states/western-australia/riverton-branch.html",
-      "timestamp": 1688931829345
-    },
-    {
-      "path": "/content/screens/assets/dog1-final.jpeg",
-      "timestamp": 1688564863000
-    },
-    {
-      "path": "/content/screens/assets/cba-global.jpeg",
-      "timestamp": 1688564862000
-    },
-    {
-      "path": "/content/screens/assets/notice.png",
-      "timestamp": 1688644797000
-    },
-    {
-      "path": "/content/screens/assets/reverton-branch.png",
-      "timestamp": 1688628694000
-    },
-    {
-      "path": "/content/screens/assets/coca-cola.jpeg",
-      "timestamp": 1688636515000
+      "timestamp": 1688940556561
     },
     {
       "path": "/content/screens/assets/automobile.png",
