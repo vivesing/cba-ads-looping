@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/states/western-australia/riverton-branch.manifest.json",
-      "lastModified": "2023-07-09T07:18:31.912Z",
+      "lastModified": "2023-07-09T07:36:38.327Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -23,7 +23,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/95-william-st-perth-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:56.000Z",
+      "lastModified": "2023-07-09T07:36:38.927Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -44,7 +44,7 @@
     },
     {
       "manifestPath": "/content/screens/states/victoria/bayswater-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:56.000Z",
+      "lastModified": "2023-07-09T07:36:39.239Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -65,7 +65,7 @@
     },
     {
       "manifestPath": "/content/screens/states/victoria/richmond-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:56.000Z",
+      "lastModified": "2023-07-09T07:36:39.560Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -86,7 +86,7 @@
     },
     {
       "manifestPath": "/content/screens/states/tasmania/launceston-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:56.000Z",
+      "lastModified": "2023-07-09T07:36:39.893Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -107,7 +107,7 @@
     },
     {
       "manifestPath": "/content/screens/states/tasmania/hobart-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:56.000Z",
+      "lastModified": "2023-07-09T07:36:40.183Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -128,7 +128,7 @@
     },
     {
       "manifestPath": "/content/screens/states/south-australia/king-william-st-adelaide-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:56.000Z",
+      "lastModified": "2023-07-09T07:36:40.477Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -149,7 +149,7 @@
     },
     {
       "manifestPath": "/content/screens/states/south-australia/edwardstown-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:56.000Z",
+      "lastModified": "2023-07-09T07:36:40.827Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -170,7 +170,7 @@
     },
     {
       "manifestPath": "/content/screens/states/queensland/fortitude-valley-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:55.000Z",
+      "lastModified": "2023-07-09T07:36:41.125Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -191,7 +191,7 @@
     },
     {
       "manifestPath": "/content/screens/states/queensland/queen-st-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:55.000Z",
+      "lastModified": "2023-07-09T07:36:41.427Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -212,7 +212,7 @@
     },
     {
       "manifestPath": "/content/screens/states/new-south-wales/marrickville-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:55.000Z",
+      "lastModified": "2023-07-09T07:36:41.758Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -233,7 +233,7 @@
     },
     {
       "manifestPath": "/content/screens/states/new-south-wales/town-hall-branch.manifest.json",
-      "lastModified": "2023-07-09T04:11:55.000Z",
+      "lastModified": "2023-07-09T07:36:42.053Z",
       "hierarchy": [
         {
           "title": "screens",

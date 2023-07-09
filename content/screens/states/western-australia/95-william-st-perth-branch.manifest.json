@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1688887112260,
+  "timestamp": 1688888199203,
   "entries": [
     {
       "path": "/content/screens/states/western-australia/95-william-st-perth-branch.html",
-      "timestamp": 1688875916000
+      "timestamp": 1688888198927
     },
     {
       "path": "/content/screens/assets/dog1-final.jpeg",
@@ -22,6 +22,10 @@
     {
       "path": "/content/screens/assets/cba-global.jpeg",
       "timestamp": 1688564862000
+    },
+    {
+      "path": "/content/screens/assets/notice.png",
+      "timestamp": 1688644797000
     },
     {
       "path": "/content/screens/assets/westernaus.png",
