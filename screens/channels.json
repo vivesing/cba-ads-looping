@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/states/western-australia/riverton-branch.manifest.json",
-      "lastModified": "2023-07-10T05:28:10.793Z",
+      "lastModified": "2023-07-10T06:01:22.932Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -19,7 +19,7 @@
       ],
       "externalId": "/content/screens/states/western-australia/riverton-branch",
       "title": "Riverton Branch",
-      "liveUrl": "https://www.aem-screens.com/content/screens/states/western-australia/riverton-branch.html"
+      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/riverton-branch.html"
     },
     {
       "manifestPath": "/content/screens/states/western-australia/95-william-st-perth-branch.manifest.json",
