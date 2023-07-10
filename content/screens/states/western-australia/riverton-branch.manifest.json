@@ -9,15 +9,19 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1688970680371,
+  "timestamp": 1688970962849,
   "entries": [
     {
       "path": "/content/screens/states/western-australia/riverton-branch.html",
-      "timestamp": 1688970680248
+      "timestamp": 1688970962659
     },
     {
       "path": "/content/screens/assets/automobile.png",
       "timestamp": 1688629541000
+    },
+    {
+      "path": "/content/screens/assets/notice.png",
+      "timestamp": 1688644797000
     },
     {
       "path": "/content/screens/assets/real-estate1.png",
